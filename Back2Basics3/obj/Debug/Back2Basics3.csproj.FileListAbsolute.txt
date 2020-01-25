@@ -1,0 +1,9 @@
+c:\users\kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Debug\Back2Basics3.frmMain.resources
+c:\users\kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Debug\Back2Basics3.Properties.Resources.resources
+c:\users\kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Debug\Back2Basics3.csproj.GenerateResource.Cache
+c:\users\kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\bin\Debug\Back2Basics3.exe
+c:\users\kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\bin\Debug\Back2Basics3.pdb
+c:\users\kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Debug\Back2Basics3.exe
+c:\users\kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Debug\Back2Basics3.pdb
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Debug\Back2Basics3.AboutBox1.resources
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Debug\Back2Basics3.csprojResolveAssemblyReference.cache

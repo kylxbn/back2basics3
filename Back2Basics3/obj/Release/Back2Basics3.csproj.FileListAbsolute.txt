@@ -1,0 +1,8 @@
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\bin\Release\Back2Basics3.exe
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\bin\Release\Back2Basics3.pdb
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Release\Back2Basics3.AboutBox1.resources
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Release\Back2Basics3.frmMain.resources
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Release\Back2Basics3.Properties.Resources.resources
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Release\Back2Basics3.csproj.GenerateResource.Cache
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Release\Back2Basics3.exe
+C:\Users\Kyle\documents\visual studio 2015\Projects\Back2Basics3\Back2Basics3\obj\Release\Back2Basics3.pdb
